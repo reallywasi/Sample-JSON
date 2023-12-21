@@ -1,1 +1,179 @@
+{
+  "jobs": [
+    {
+      "companyName": "Tech Innovators Inc.",
+      "role": "Software Engineer",
+      "salary": "$100,000 - $120,000",
+      "vacancies": 5
+    },
+    {
+      "companyName": "CodeCraft Solutions",
+      "role": "Frontend Developer",
+      "salary": "$90,000 - $110,000",
+      "vacancies": 3
+    },
+    {
+      "companyName": "Data Dynamics Ltd.",
+      "role": "Data Scientist",
+      "salary": "$110,000 - $130,000",
+      "vacancies": 2
+    },
+    {
+      "companyName": "CyberGuard Technologies",
+      "role": "Cybersecurity Analyst",
+      "salary": "$95,000 - $115,000",
+      "vacancies": 4
+    },
+    {
+      "companyName": "CloudSynergy Solutions",
+      "role": "Cloud Engineer",
+      "salary": "$105,000 - $125,000",
+      "vacancies": 3
+    },
+    {
+      "companyName": "AI Dynamics Corporation",
+      "role": "Machine Learning Engineer",
+      "salary": "$110,000 - $130,000",
+      "vacancies": 2
+    },
+    {
+      "companyName": "MobileTech Innovations",
+      "role": "iOS Developer",
+      "salary": "$95,000 - $115,000",
+      "vacancies": 4
+    },
+    {
+      "companyName": "WebMasters Ltd.",
+      "role": "Full Stack Developer",
+      "salary": "$100,000 - $120,000",
+      "vacancies": 3
+    },
+    {
+      "companyName": "BigData Insights Corp.",
+      "role": "Big Data Engineer",
+      "salary": "$105,000 - $125,000",
+      "vacancies": 2
+    },
+    {
+      "companyName": "SecurityTech Solutions",
+      "role": "Security Engineer",
+      "salary": "$95,000 - $115,000",
+      "vacancies": 3
+    },
+    {
+      "companyName": "E-commerce Systems Inc.",
+      "role": "UI/UX Designer",
+      "salary": "$90,000 - $110,000",
+      "vacancies": 2
+    },
+    {
+      "companyName": "Network Wizards Ltd.",
+      "role": "Network Engineer",
+      "salary": "$100,000 - $120,000",
+      "vacancies": 4
+    },
+    {
+      "companyName": "HealthTech Solutions",
+      "role": "Health IT Specialist",
+      "salary": "$110,000 - $130,000",
+      "vacancies": 2
+    },
+    {
+      "companyName": "DevOps Dynamo Corp.",
+      "role": "DevOps Engineer",
+      "salary": "$105,000 - $125,000",
+      "vacancies": 3
+    },
+    {
+      "companyName": "AR/VR Innovations",
+      "role": "Augmented Reality Developer",
+      "salary": "$95,000 - $115,000",
+      "vacancies": 2
+    },
+    {
+      "companyName": "Blockchain Technologies Inc.",
+      "role": "Blockchain Developer",
+      "salary": "$100,000 - $120,000",
+      "vacancies": 3
+    },
+    {
+      "companyName": "GreenTech Solutions",
+      "role": "Environmental Data Analyst",
+      "salary": "$110,000 - $130,000",
+      "vacancies": 2
+    },
+    {
+      "companyName": "Robotics Revolution Ltd.",
+      "role": "Robotics Engineer",
+      "salary": "$95,000 - $115,000",
+      "vacancies": 3
+    },
+    {
+      "companyName": "SmartCity Technologies",
+      "role": "Smart City IoT Specialist",
+      "salary": "$100,000 - $120,000",
+      "vacancies": 2
+    },
+    {
+      "companyName": "Quantum Systems Inc.",
+      "role": "Quantum Computing Scientist",
+      "salary": "$110,000 - $130,000",
+      "vacancies": 3
+    },
+    {
+      "companyName": "GameTech Studios",
+      "role": "Game Developer",
+      "salary": "$95,000 - $115,000",
+      "vacancies": 2
+    },
+    {
+      "companyName": "Autonomous Vehicles Corp.",
+      "role": "Autonomous Vehicle Engineer",
+      "salary": "$100,000 - $120,000",
+      "vacancies": 4
+    },
+    {
+      "companyName": "EdTech Innovations",
+      "role": "Educational Technology Specialist",
+      "salary": "$110,000 - $130,000",
+      "vacancies": 2
+    },
+    {
+      "companyName": "Fintech Solutions Ltd.",
+      "role": "Financial Technology Analyst",
+      "salary": "$95,000 - $115,000",
+      "vacancies": 3
+    },
+    {
+      "companyName": "SpaceTech Explorations",
+      "role": "Space Systems Engineer",
+      "salary": "$100,000 - $120,000",
+      "vacancies": 2
+    },
+    {
+      "companyName": "BioTech Innovators",
+      "role": "Biotechnology Research Scientist",
+      "salary": "$110,000 - $130,000",
+      "vacancies": 3
+    },
+    {
+      "companyName": "Autonomous Drones Ltd.",
+      "role": "Drone Software Engineer",
+      "salary": "$95,000 - $115,000",
+      "vacancies": 2
+    },
+    {
+      "companyName": "Virtual Reality Tech Corp.",
+      "role": "Virtual Reality Developer",
+      "salary": "$100,000 - $120,000",
+      "vacancies": 3
+    },
+    {
+      "companyName": "Clean Energy Systems",
+      "role": "Renewable Energy Engineer",
+      "salary": "$110,000 - $130,000",
+      "vacancies": 2
+    }
+  ]
+}
 
